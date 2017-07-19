@@ -17,10 +17,6 @@ git clone https://github.com/sunazerty/latest-thunderbird-debian9.git
 In a shell:
 ```
 cd latest-thunderbird-debian9
-```
-```
 chmod +x setup.sh
-```
-```
 sudo setup.sh -i YOUR_ARCH
 ```
