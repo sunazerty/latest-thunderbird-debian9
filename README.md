@@ -11,7 +11,7 @@ sudo apt-get update && sudo apt-get -y install git
 Then, you can clone the repository with:
 ```
 git clone https://github.com/sunazerty/latest-thunderbird-debian9.git
-
+```
 ### Installing
 
 In a shell:
